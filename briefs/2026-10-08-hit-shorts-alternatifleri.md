@@ -2,11 +2,13 @@
 tarih: 2026-10-08
 tur: brief
 alici: Claude Code / Codex (tam AI üretim)
-status: taslak — Melih onayı bekliyor
+status: seçim yapıldı (A1, A2, B4) — ana kare + çekim listesi onayı bekliyor
 kaynak: "[[4 Kanal - Son 3 Ay Ortak Bulgular]] · Studio + Analytics, 4 Eki'ye kadar"
 ---
 
 # Brief · İki hit Shorts'un alternatifleri
+
+> **Karar (2026-10-08):** A1 Renk Balonları · A2 Meyve Kızak · B4 Sebze vs Cips. Gerekçe ve çekim listeleri: [[2026-10-08-secim-ve-cekim-listeleri]]
 
 ## Referans videolar
 
@@ -21,7 +23,7 @@ kaynak: "[[4 Kanal - Son 3 Ay Ortak Bulgular]] · Studio + Analytics, 4 Eki'ye k
 
 **Sayı Yarışı:**
 1. Tanıdık şey canlanıyor: 1–5 rakamları gözlü, eldivenli, spor ayakkabılı 3D karakterler.
-2. Her karakterin tek rengi var (kırmızı 1, mavi 2, yeşil 3, sarı 4, mor 5) — sesiz de okunuyor.
+2. Her karakterin tek rengi var (kırmızı 1, mavi 2, yeşil 3, sarı 4, mor 5) — sessiz de okunuyor.
 3. Tek basit dram: start çizgisi → koşu → bitiş şeridi. Kim kazanacak merakı 16 saniye.
 4. Final: hepsi sırayla dizilip zıplıyor + konfeti + gökkuşağı. Döngüye başa sarmaya uygun.
 
